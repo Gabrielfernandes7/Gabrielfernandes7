@@ -4,7 +4,7 @@
 
 - Atualmente estou participandos dos bootcamps da Digital Innovation One: 
     - MRV Full Stack developer
-    - Take Blip 
+    - Take Blip Web developer
 - Estou aprofundando conhecimentos em JavaScript e JQuery
 - I love programming :heart:
 
