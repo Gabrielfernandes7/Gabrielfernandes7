@@ -2,7 +2,7 @@
 
 ## Desenvolvedor Full Stack :bulb: :books:
 
-- Atualmente estou participandos dos bootcamps da Digital Innovation One: 
+- Participei dos bootcamps da Digital Innovation One: 
     - MRV Full Stack developer
     - Take Blip Web developer
 - Estou aprofundando conhecimentos em JavaScript e JQuery
