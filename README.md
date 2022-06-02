@@ -1,15 +1,24 @@
-# Olá ! Me chamo Gabriel Fernandes
+### Hello there!
+### My portifolio link
 
-## Desenvolvedor Full Stack :bulb: :books:
+<a href="https://gabrielfernandescode.netlify.app/" target="_blank">Gabriel Fernandes - Portifólio</a>
 
-- Participei dos bootcamps da Digital Innovation One: 
+## I am Gabriel Fernandes
+- I live in :brazil:, Fortaleza
+- I am a Mecatronics Engineering
+- I am Front-end Developer :computer:
+
+- I participated in the bootcamps of Digital Innovation One: 
     - MRV Full Stack developer
     - Take Blip Web developer
-- Estou aprofundando conhecimentos em JavaScript e ReactJS
 - I love programming :heart:
 
-<img align="center" alt="javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img align="center" alt="javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img align="center" alt="javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img  align="center" alt="javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> <img align="center" alt="javascript" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img align="center" alt="javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+## My Skills
+<img align="center" alt="javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img align="center" alt="javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img align="center" alt="javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img align="center" alt="javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> <img align="center" alt="javascript" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img align="center" alt="javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
 # Connect with me:
-<a href="https://linkedin.com/in/gabriel-assunção-fernandes-0b1148200/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gabriel-assuncao-fernandes-0b1148200" height="30" width="40" /></a>
-<a href="https://instagram.com/biel_fernan7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="biel_fernan7" height="30" width="40" /></a>
+<a href="mailto:gabriel.assuncao.fernandes07@aluno.ifce.edu.br" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white">
+</a> <a href="https://www.linkedin.com/in/gabriel-assun%C3%A7%C3%A3o-fernandes-0b1148200/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" >
+</a> 
