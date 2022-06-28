@@ -23,9 +23,3 @@
 </a> <a href="https://www.linkedin.com/in/gabriel-assun%C3%A7%C3%A3o-fernandes-0b1148200/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
 </a>
-
-<style>
-    img{
-        align-items: center;
-    }
-</style>
