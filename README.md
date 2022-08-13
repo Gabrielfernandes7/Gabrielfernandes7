@@ -11,7 +11,7 @@
 - I participated in the bootcamps of Digital Innovation One: 
     - MRV Full Stack developer
     - Take Blip Web developer
-- I am participating in bootcamp: Santander Bootcamp Fullstack Developer
+    - Santander Fullstack Developer
 - I love programming :heart:
 
 ## My Skills
