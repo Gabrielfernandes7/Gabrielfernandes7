@@ -5,13 +5,16 @@
 
 ## I am Gabriel Fernandes
 - I live in :brazil:, Fortaleza
-- I am a Mecatronics Engineering
+- I am studying Mecatronics Engineering
 - I am Front-end Developer :computer:
 
 - I participated in the bootcamps of Digital Innovation One: 
     - MRV Full Stack developer
     - Take Blip Web developer
     - Santander Fullstack Developer
+
+- I am participating in the bootcamp of Digital Innovation One:
+    - Québec Java Digital
 - I love programming :heart:
 
 ## My Skills
