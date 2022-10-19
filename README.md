@@ -14,7 +14,7 @@
     - Santander Fullstack Developer
 
 - I am participating in the bootcamp of Digital Innovation One:
-    - Québec Java Digital
+    - Ifood potencia tech powered java
 - I love programming :heart:
 
 ## My Skills
