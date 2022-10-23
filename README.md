@@ -12,9 +12,11 @@
     - MRV Full Stack developer
     - Take Blip Web developer
     - Santander Fullstack Developer
+    - iFood potencia tech powered Java
 
 - I am participating in the bootcamp of Digital Innovation One:
-    - Ifood potencia tech powered java
+    - Banco Inter - Orange Tech +
+
 - I love programming :heart:
 
 ## My Skills
