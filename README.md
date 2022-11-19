@@ -8,15 +8,6 @@
 - I am studying Mecatronics Engineering
 - I am Front-end Developer :computer:
 
-- I participated in the bootcamps of Digital Innovation One: 
-    - MRV Full Stack developer
-    - Take Blip Web developer
-    - Santander Fullstack Developer
-    - iFood potencia tech powered Java
-
-- I am participating in the bootcamp of Digital Innovation One:
-    - Banco Inter - Orange Tech +
-
 - I love programming :heart:
 
 ## My Skills
