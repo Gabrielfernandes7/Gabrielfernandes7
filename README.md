@@ -3,7 +3,7 @@
 ### I am Gabriel Fernandes
 - I live in Brazil
 - I am studying Mecatronics Engineering
-- I am Front-end Developer :computer:
+- I am Software Developer :computer:
 
 - I love programming :heart:
 
