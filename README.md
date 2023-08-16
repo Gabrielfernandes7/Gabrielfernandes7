@@ -1,11 +1,18 @@
 ## Hello there!
 
-### I am Gabriel Fernandes
+<img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="100%" height="9"/>
+
+### I am Gabriel Fernandes 
+
 - I live in Brazil
 - I am studying Mecatronics Engineering
 - I am Software Developer :computer:
 
 - I love programming :heart:
+
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=Gabrielfernandes7&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielfernandes7&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 
 ## Languages
 <img alt="javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img alt="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="40"/> <img alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
