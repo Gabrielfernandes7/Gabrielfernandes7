@@ -1,5 +1,7 @@
 ## Hello there! 
 
+### Gabriel Fernandes
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=500&color=3D67F7&center=true&vCenter=true&random=true&width=435&lines=Software+Developer;Frontend+%7C+Backend)](https://git.io/typing-svg)
 
 - 🌎 I live in Brazil.
