@@ -28,7 +28,7 @@
 
 ## Database
 
-[![My Skills](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres&theme=dark)](https://skillicons.dev)
 
 ## Learning
 
