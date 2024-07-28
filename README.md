@@ -11,5 +11,5 @@
 
 ## 🛠️ Linguagens e Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=java,javascript,typescript,python,spring,flask,fastapi,docker,vue,pinia,jest,vitest,vite,git,vscode,linux&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,typescript,spring,flask,fastapi,docker,vue,pinia,jest,vitest,vite,git,vscode,linux&theme=dark)](https://skillicons.dev)
 
