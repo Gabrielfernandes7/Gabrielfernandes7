@@ -6,7 +6,7 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielfernandes7&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielfernandes7&layout=compact&langs_count=10&theme=dracula"/>
 </div>
 
 ## 🛠️ Linguagens e Ferramentas
